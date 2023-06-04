@@ -1,2 +1,2 @@
 # vue_demo
-vue项目
+vue-cli 项目
